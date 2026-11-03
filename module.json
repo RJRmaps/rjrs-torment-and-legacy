@@ -62,6 +62,8 @@
       }
     ]
   },
+  "description": "<p>Prebuilt map of the PF2e one-shot Torment and Legacy (campaign book and details not included). I hope you like it. :)</p>",
   "url": "https://github.com/RJRmaps/rjrs-torment-and-legacy",
-  "description": ""
+  "manifest": "https://github.com/RJRmaps/rjrs-torment-and-legacy/releases/download/v13.0.0/module.json",
+  "download": "https://github.com/RJRmaps/rjrs-torment-and-legacy/archive/refs/tags/v13.0.0.zip"
 }
