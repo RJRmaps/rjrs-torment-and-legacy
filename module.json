@@ -1,7 +1,7 @@
 {
   "id": "rjrs-torment-and-legacy",
   "title": "RJR's Torment and Legacy",
-  "version": "1.0.0",
+  "version": "13.0.0",
   "compatibility": {
     "minimum": "13",
     "verified": "13",
