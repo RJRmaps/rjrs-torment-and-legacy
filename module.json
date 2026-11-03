@@ -11,6 +11,7 @@
     {
       "name": "RJR Maps",
       "discord": "rjrmaps",
+      "url": "https://github.com/RJRmaps",
       "flags": {}
     }
   ],
@@ -61,5 +62,6 @@
       }
     ]
   },
+  "url": "https://github.com/RJRmaps/rjrs-torment-and-legacy",
   "description": ""
 }
